@@ -1,0 +1,6 @@
+{
+  "name": "Mono Music",
+  "description": "AI-powered music studio creating studio-grade tracks and clips with Lyria 3 & Gemini, featuring advanced composition controls, BPM, scales, and audio playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
